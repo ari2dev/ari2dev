@@ -5,16 +5,20 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ari2dev&label=Visitas%20al%20perfil&color=brightgreen&style=flat" alt="Visitas al perfil"/>
+  <img src="https://komarev.com/ghpvc/?username=ari2dev&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views"/>
   &nbsp;&nbsp;
-  <a href="https://github.com/ari2dev?tab=followers"><img src="https://img.shields.io/github/followers/ari2dev?label=Seguidores&style=social" alt="Seguidores"/></a>
+  <a href="https://github.com/ari2dev?tab=followers">
+    <img src="https://img.shields.io/github/followers/ari2dev?label=Followers&style=social" alt="GitHub Followers"/>
+  </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/ari2dev?tab=repositories"><img src="https://img.shields.io/github/stars/ari2dev?label=Estrellas&style=social" alt="Estrellas"/></a>
+  <a href="https://github.com/ari2dev?tab=repositories">
+    <img src="https://img.shields.io/github/stars/ari2dev?label=Stars&style=social" alt="GitHub Stars"/>
+  </a>
 </p>
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=900&height=50&lines=Estudiante+de+DAM+%7C+Java+%26+SQL;De+la+Biolog%C3%ADa+al+c%C3%B3digo;Convirtiendo+problemas+en+soluciones+claras;Aprendiendo+y+construyendo+cada+d%C3%ADa)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=900&height=50&lines=Software+Developer+%7C+Backend+%26+Full-Stack;Building+Web+Applications+%26+APIs;PHP+%7C+Laravel+%7C+Node.js+%7C+SQL;Learning%2C+Building+%26+Improving+Every+Day)
 
 </div>
 
@@ -333,13 +337,5 @@ Busco **prácticas y primeras oportunidades** en desarrollo de software · dispo
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Gracias%20por%20visitar%20mi%20perfil&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=75"/>
-
-</div>
-
-> *"De la ciencia al código: aprender, construir y mejorar cada día."*
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Gracias%20por%20visitar%20mi%20perfil&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=75"/>
 
 </div>
