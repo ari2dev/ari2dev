@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ariadna%20Galv%C3%A1n%20Navarro&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrolladora%20de%20Software%20en%20Formaci%C3%B3n%20%7C%20DAM&descAlignY=60&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ariadna%20Galv%C3%A1n%20Navarro&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desarrolladora%20de%20Software%20en%20Formaci%C3%B3n%20%7C%20DAM&descAlignY=55&descSize=18"/>
 
 <p align="center">
-  <img src="foto.png" alt="Ariadna Galván Navarro" width="170"/>
+  <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/ari2dev/ari2dev/main/foto.png&w=180&h=180&fit=cover&mask=circle" alt="Ariadna Galván Navarro" width="180"/>
 </p>
 
 <p align="center">
@@ -14,15 +14,34 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=900&height=50&lines=Estudiante+de+DAM+%7C+Java+%26+SQL;De+la+Biolog%C3%ADa+al+c%C3%B3digo;Convirtiendo+problemas+en+soluciones+claras;Aprendiendo+y+construyendo+cada+d%C3%ADa)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&size=30&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=900&height=50&lines=Estudiante+de+DAM+%7C+Java+%26+SQL;De+la+Biolog%C3%ADa+al+c%C3%B3digo;Convirtiendo+problemas+en+soluciones+claras;Aprendiendo+y+construyendo+cada+d%C3%ADa)
 
 </div>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
+    <img alt="Ariadna Galván Navarro" src="./dark.svg" width="100%">
+  </picture>
+</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
-## 👩‍💻 Sobre mí
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Sobre mí
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=ari2dev&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=ari2dev&theme=github-dark" alt="Sobre Ariadna" />
+  </picture>
+</p>
 
 <div align="left">
 
@@ -65,7 +84,16 @@ rigor metodológico y capacidad para resolver problemas bajo presión.
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
-## 🛠️ Stack tecnológico
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Stack tecnológico
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=ari2dev&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=ari2dev&theme=github-dark" alt="Stack de lenguajes" />
+  </picture>
+</p>
 
 <div align="center">
 
@@ -91,6 +119,8 @@ rigor metodológico y capacidad para resolver problemas bajo presión.
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 ## 🧠 Mapa de competencias
 
@@ -125,6 +155,8 @@ graph LR
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
 ## 🎓 Formación
 
 <div align="center">
@@ -141,13 +173,15 @@ graph LR
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
 ## 🤝 Abierta a colaboración
 
 <div align="center">
 
 <table width="100%">
 <tr>
-<td align="center" width="25%">
+<td align="center" width="20%">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/language-java.svg?color=white">
     <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/language-java.svg?color=black">
@@ -162,7 +196,7 @@ graph LR
     Aprendizaje continuo
   </small>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/database.svg?color=white">
     <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/database.svg?color=black">
@@ -177,7 +211,7 @@ graph LR
     Manipulación de datos
   </small>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/web.svg?color=white">
     <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/web.svg?color=black">
@@ -192,7 +226,7 @@ graph LR
     Interfaces claras
   </small>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/chart-box-outline.svg?color=white">
     <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/chart-box-outline.svg?color=black">
@@ -207,6 +241,21 @@ graph LR
     Pensamiento analítico
   </small>
 </td>
+<td align="center" width="20%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/account-group.svg?color=white">
+    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/account-group.svg?color=black">
+    <img src="https://api.iconify.design/mdi/account-group.svg?color=black" width="48" height="48">
+  </picture>
+  <br><br>
+  <strong>Trabajo en equipo</strong>
+  <br><br>
+  <small>
+    Comunicación asertiva<br>
+    Proyectos de aprendizaje<br>
+    Mejora continua
+  </small>
+</td>
 </tr>
 </table>
 
@@ -217,6 +266,8 @@ Busco **prácticas y primeras oportunidades** en desarrollo de software · dispo
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 ## 📊 Estadísticas de GitHub
 
@@ -237,11 +288,11 @@ Busco **prácticas y primeras oportunidades** en desarrollo de software · dispo
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ari2dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF"/>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ari2dev&theme=default&hide_border=true"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=ari2dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&cache_bust=5"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ari2dev&theme=default&hide_border=true&cache_bust=5"/>
 </picture>&nbsp;&nbsp;<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ari2dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ari2dev&layout=compact&theme=default&hide_border=true&langs_count=10"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ari2dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10&cache_bust=5"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ari2dev&layout=compact&theme=default&hide_border=true&langs_count=10&cache_bust=5"/>
 </picture>
 
 </div>
@@ -249,6 +300,8 @@ Busco **prácticas y primeras oportunidades** en desarrollo de software · dispo
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 ## 🏔️ Terreno 3D de contribuciones
 
@@ -265,6 +318,8 @@ Busco **prácticas y primeras oportunidades** en desarrollo de software · dispo
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
 ## 📬 Conecta conmigo
 
 <p align="center">
@@ -276,6 +331,14 @@ Busco **prácticas y primeras oportunidades** en desarrollo de software · dispo
 ---
 
 <div align="center">
+
+> *"De la ciencia al código: aprender, construir y mejorar cada día."*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Gracias%20por%20visitar%20mi%20perfil&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=75"/>
+
+</div>
 
 > *"De la ciencia al código: aprender, construir y mejorar cada día."*
 
