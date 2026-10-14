@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ariadna%20Galv%C3%A1n%20Navarro&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desarrolladora%20de%20Software%20en%20Formaci%C3%B3n%20%7C%20DAM&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ariadna%20Galv%C3%A1n%20Navarro&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desarrolladora%20de%20Software%20&descAlignY=55&descSize=18"/>
 
 <p align="center">
   <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/ari2dev/ari2dev/main/foto.png&w=180&h=180&fit=cover&mask=circle" alt="Ariadna Galván Navarro" width="180"/>
@@ -53,26 +53,47 @@
 public class Ariadna {
 
     String nombre = "Ariadna Galván Navarro";
-    String rol = "Desarrolladora de software en formación";
-    String estudios = "Grado Superior en DAM (2025 - actualidad) · IES Lomo de la Herradura";
-    String formacionPrevia = "Biología · Universidad de Granada (2021-2025)";
-    String[] idiomas = {"Castellano (nativo)", "Inglés (nivel medio)"};
+    String rol = "Software Developer | Backend & Web";
+    String estudios = "DAM · IES Lomo de la Herradura";
+    String idiomas = "Español e inglés (B1)";
 
-    String[] tecnologias() {
-        return new String[] {"Java", "SQL", "HTML5", "CSS3"};
-    }
+    String[] backend = {
+        "PHP",
+        "Laravel",
+        "Node.js",
+        "Java"
+    };
 
-    String[] enfoqueActual() {
-        return new String[] {
-            "☕ Afianzando la lógica de programación en Java",
-            "🗄️ Diseñando y consultando bases de datos relacionales con SQL",
-            "🌐 Maquetando con HTML5 y CSS3",
-            "🌱 Aprendiendo nuevas herramientas de forma autónoma"
-        };
-    }
+    String[] basesDeDatos = {
+        "SQL",
+        "MySQL",
+        "PostgreSQL",
+        "MongoDB"
+    };
+
+    String[] desarrolloWeb = {
+        "HTML5",
+        "CSS3",
+        "APIs REST"
+    };
+
+    String[] herramientas = {
+        "Git",
+        "GitHub",
+        "Linux"
+    };
+
+    String[] competencias = {
+        "Programación orientada a objetos",
+        "Lógica de negocio",
+        "Operaciones CRUD",
+        "Consultas y modelado de datos",
+        "Desarrollo e integración de APIs",
+        "Depuración y resolución de problemas",
+        "Control de versiones",
+        "Aprendizaje autónomo"
+    };
 }
-
-Ariadna yo = new Ariadna();
 ```
 
 ```
@@ -103,22 +124,47 @@ rigor metodológico y capacidad para resolver problemas bajo presión.
 
 #### Lenguajes
 
-<img src="https://skillicons.dev/icons?i=java,html,css" height="55" />
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,java" height="55" alt="PHP, Laravel, Node.js y Java"/>
+</p>
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
 #### Bases de datos
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" height="55" alt="MySQL, PostgreSQL y MongoDB"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=mysql" height="55" />
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-#### Herramientas
+### Desarrollo web
 
-<img src="https://skillicons.dev/icons?i=git,github,linux" height="55" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" height="55" alt="HTML5 y CSS3"/>
+</p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-</div>
+
+
+#### Herramientas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" height="55" alt="Git, GitHub, Linux y Visual Studio Code"/>
+</p>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -126,7 +172,7 @@ rigor metodológico y capacidad para resolver problemas bajo presión.
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## 🧠 Mapa de competencias
+## Mapa de competencias
 
 ```mermaid
 graph LR
@@ -161,7 +207,7 @@ graph LR
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## 🎓 Formación
+## Formación
 
 <div align="center">
 
@@ -179,101 +225,62 @@ graph LR
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## 🤝 Abierta a colaboración
-
-<div align="center">
+## Abierta a colaboración
 
 <table width="100%">
-<tr>
-<td align="center" width="20%">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/language-java.svg?color=white">
-    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/language-java.svg?color=black">
-    <img src="https://api.iconify.design/mdi/language-java.svg?color=black" width="48" height="48">
-  </picture>
-  <br><br>
-  <strong>Desarrollo</strong>
-  <br><br>
-  <small>
-    Aplicaciones en Java<br>
-    Lógica de gestión<br>
-    Aprendizaje continuo
-  </small>
-</td>
-<td align="center" width="20%">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/database.svg?color=white">
-    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/database.svg?color=black">
-    <img src="https://api.iconify.design/mdi/database.svg?color=black" width="48" height="48">
-  </picture>
-  <br><br>
-  <strong>Bases de datos</strong>
-  <br><br>
-  <small>
-    Diseño relacional<br>
-    Consultas SQL<br>
-    Manipulación de datos
-  </small>
-</td>
-<td align="center" width="20%">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/web.svg?color=white">
-    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/web.svg?color=black">
-    <img src="https://api.iconify.design/mdi/web.svg?color=black" width="48" height="48">
-  </picture>
-  <br><br>
-  <strong>Web</strong>
-  <br><br>
-  <small>
-    Maquetación HTML5<br>
-    Estilos con CSS3<br>
-    Interfaces claras
-  </small>
-</td>
-<td align="center" width="20%">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/chart-box-outline.svg?color=white">
-    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/chart-box-outline.svg?color=black">
-    <img src="https://api.iconify.design/mdi/chart-box-outline.svg?color=black" width="48" height="48">
-  </picture>
-  <br><br>
-  <strong>Análisis de datos</strong>
-  <br><br>
-  <small>
-    Rigor científico<br>
-    Tratamiento de datos<br>
-    Pensamiento analítico
-  </small>
-</td>
-<td align="center" width="20%">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi/account-group.svg?color=white">
-    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi/account-group.svg?color=black">
-    <img src="https://api.iconify.design/mdi/account-group.svg?color=black" width="48" height="48">
-  </picture>
-  <br><br>
-  <strong>Trabajo en equipo</strong>
-  <br><br>
-  <small>
-    Comunicación asertiva<br>
-    Proyectos de aprendizaje<br>
-    Mejora continua
-  </small>
-</td>
-</tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://api.iconify.design/mdi/server.svg?color=%2358A6FF" width="48" height="48" alt="Backend"/>
+      <br><br>
+      <strong>Backend</strong>
+      <br><br>
+      PHP · Laravel<br>
+      Node.js · Java<br>
+      Lógica de negocio
+    </td>
+    <td align="center" width="25%">
+      <img src="https://api.iconify.design/mdi/database.svg?color=%2347A248" width="48" height="48" alt="Bases de datos"/>
+      <br><br>
+      <strong>Bases de datos</strong>
+      <br><br>
+      MySQL · PostgreSQL<br>
+      MongoDB · SQL<br>
+      Gestión de datos
+    </td>
+    <td align="center" width="25%">
+      <img src="https://api.iconify.design/mdi/web.svg?color=%23C678DD" width="48" height="48" alt="Desarrollo web"/>
+      <br><br>
+      <strong>Desarrollo web</strong>
+      <br><br>
+      HTML5 · CSS3<br>
+      Aplicaciones web<br>
+      Integración de servicios
+    </td>
+    <td align="center" width="25%">
+      <img src="https://api.iconify.design/mdi/source-branch.svg?color=%23E3B341" width="48" height="48" alt="Herramientas"/>
+      <br><br>
+      <strong>Herramientas</strong>
+      <br><br>
+      Git · GitHub<br>
+      Trabajo colaborativo<br>
+      Mejora continua
+    </td>
+  </tr>
 </table>
 
-Busco **prácticas y primeras oportunidades** en desarrollo de software · disponibilidad horaria y geográfica flexible
+Estoy interesada en **prácticas, oportunidades junior y proyectos de desarrollo de software** en los que pueda aplicar mis conocimientos, colaborar con otros desarrolladores y seguir creciendo profesionalmente.
 
-</div>
+Me interesan especialmente el desarrollo backend, las aplicaciones web, las APIs y la gestión de bases de datos.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
+---
+
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## 📊 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 <p align="center">
   <picture>
@@ -306,7 +313,7 @@ Busco **prácticas y primeras oportunidades** en desarrollo de software · dispo
 </p>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-## 🏔️ Terreno 3D de contribuciones
+## Terreno 3D de contribuciones
 
 <div align="center">
 
@@ -320,7 +327,7 @@ Busco **prácticas y primeras oportunidades** en desarrollo de software · dispo
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## 📬 Conecta conmigo
+## Conecta conmigo
 
 <p align="center">
   <a href="mailto:ariadnagalnav2@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
@@ -332,7 +339,7 @@ Busco **prácticas y primeras oportunidades** en desarrollo de software · dispo
 
 <div align="center">
 
-> *"De la ciencia al código: aprender, construir y mejorar cada día."*
+> *"Aprender, construir y mejorar cada día."*
 
 <br>
 
