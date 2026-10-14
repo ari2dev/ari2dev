@@ -302,15 +302,11 @@ Busco **prácticas y primeras oportunidades** en desarrollo de software · dispo
 </p>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
 ## 🏔️ Terreno 3D de contribuciones
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-green-dark.svg">
-  <img src="profile-3d-contrib/profile-green-animate.svg" alt="Calendario isométrico 3D de contribuciones">
-</picture>
+![](https://raw.githubusercontent.com/ari2dev/ari2dev/main/profile-3d-contrib/profile-night-green.svg)
 
 </div>
 
