@@ -1,12 +1,11 @@
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ariadna%20Galv%C3%A1n%20Navarro&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desarrolladora%20de%20Software%20&descAlignY=55&descSize=18"/>
-
+</p>
 <p align="center">
   <img src="https://images.weserv.nl/?url=raw.githubusercontent.com/ari2dev/ari2dev/main/foto.png&w=180&h=180&fit=cover&mask=circle" alt="Ariadna Galván Navarro" width="180"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ari2dev&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views"/>
-  &nbsp;&nbsp;
   <a href="https://github.com/ari2dev?tab=followers">
     <img src="https://img.shields.io/github/followers/ari2dev?label=Followers&style=social" alt="GitHub Followers"/>
   </a>
@@ -18,22 +17,17 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&size=25&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=900&height=50&lines=Software+Developer+%7C+Backend+%26+Full-Stack;Building+Web+Applications+%26+APIs;PHP+%7C+Laravel+%7C+Node.js+%7C+SQL;Learning%2C+Building+%26+Improving+Every+Day)
+<a href="https://github.com/ari2dev">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&height=50&lines=Software+Developer+%7C+Backend+%26+Full-Stack;Aplicaciones+web+y+APIs+REST;PHP+%7C+Laravel+%7C+Node.js+%7C+SQL;Aprender%2C+construir+y+mejorar+cada+d%C3%ADa" alt="Texto animado"/>
+</a>
 
 </div>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-    <img alt="Ariadna Galván Navarro" src="./dark.svg" width="100%">
-  </picture>
-</p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+ <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%" alt=""/>
 </p>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
@@ -205,23 +199,7 @@ graph LR
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-## Formación
-
-<div align="center">
-
-| Periodo | Estudios | Centro |
-|:---:|:---|:---|
-| 2025 - actualidad | Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) | IES Lomo de la Herradura |
-| 2021 - 2025 | Grado en Biología (pendiente de finalización) | Universidad de Granada |
-| — | Bachillerato de Ciencias de la Salud | IES José Arencibia Gil |
-
-</div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</p>
 
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
@@ -291,10 +269,7 @@ Me interesan especialmente el desarrollo backend, las aplicaciones web, las APIs
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=ari2dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B35"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ari2dev&theme=github-compact&hide_border=true"/>
-</picture>
+
 
 <br>
 
